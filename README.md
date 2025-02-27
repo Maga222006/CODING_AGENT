@@ -1,7 +1,7 @@
 # AI Coding Agent
 
 ## Description
-The CODING_AGENT is a LangChain-based agent tailored for coding tasks and interactions with GitHub using the PyGitHub library. This agent can help automate code generation, issue management, and other coding-related activities.
+The Coding Agent is a LangChain-based agent tailored for coding tasks and interactions with GitHub using the PyGitHub library. This agent can help automate code generation, issue management, and other coding-related activities.
 
 ## Features
 - Automate code generation
