@@ -8,9 +8,6 @@ The CODING_AGENT is a LangChain-based agent tailored for coding tasks and intera
 - Manage GitHub issues
 - Interact with GitHub using PyGitHub library
 
-## Getting Started
-To use the CODING_AGENT, please follow the installation instructions in the [INSTALLATION](INSTALLATION.md) document.
-
 ## License
 MIT License
 
