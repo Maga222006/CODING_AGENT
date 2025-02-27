@@ -14,7 +14,7 @@ To use the CODING_AGENT, please follow the installation instructions in the [INS
 ## License
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2023 John Doe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
